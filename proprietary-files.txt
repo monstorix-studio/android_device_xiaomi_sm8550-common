@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from Xiaomi 13 Pro (OS3.0.311.0.WMBCNXM).
+## are from Xiaomi 13 Pro (OS3.0.312.0.WMBCNXM).
 
 # ACDBs
 vendor/etc/acdbdata/ffv_models/ffv__5.0.1_0.1__3.0.0_0.0__eai_2.10_enpu3.pmd
@@ -229,7 +229,6 @@ vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
 # Data
-vendor/bin/ATFWD-daemon
 vendor/bin/adpl
 vendor/bin/netmgrd
 vendor/bin/port-bridge
@@ -242,7 +241,6 @@ vendor/etc/init/ipa_fws.rc
 vendor/etc/init/netmgrd.rc
 vendor/etc/init/port-bridge.rc
 vendor/etc/init/shsusrd.rc
-vendor/etc/seccomp_policy/atfwd@2.0.policy
 vendor/etc/vintf/manifest/dataconnection-saidl.xml
 vendor/lib64/libconfigdb.so
 vendor/lib64/libdsi_netctrl.so
@@ -468,7 +466,6 @@ vendor/etc/batching.conf
 vendor/etc/gps.conf
 vendor/etc/lowi.conf
 vendor/etc/sap.conf
-vendor/etc/sec_config
 vendor/etc/xtwifi.conf
 vendor/lib64/hw/android.hardware.gnss-aidl-impl-qti.so
 vendor/lib64/libMiVDR.so
@@ -881,7 +878,6 @@ vendor/etc/init/init.qti.qcv.rc
 
 # QMI
 system/etc/sysconfig/qti_whitelist.xml
-vendor/bin/irsc_util
 vendor/bin/qmipriod
 vendor/bin/qrtr-cfg
 vendor/bin/qrtr-lookup
